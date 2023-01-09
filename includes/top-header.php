@@ -23,7 +23,7 @@
 			<div class="cnt-block">
 				<ul class="list-unstyled list-inline">
 					<li class="dropdown dropdown-small">
-						<a href="http://localhost:8080/shopping/admin" class="dropdown-toggle" ><span class="key">Admin</b></a>
+						<a href="/Ecom-PHP/admin" class="dropdown-toggle" ><span class="key">Admin</b></a>
 					</li>
 				</ul>
 			</div>

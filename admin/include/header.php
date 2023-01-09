@@ -9,6 +9,15 @@
 			</h4>
 			<div class="nav-collapse collapse navbar-inverse-collapse">
 				<ul class="nav pull-right">
+					<li>
+						<a href="../index.php">
+							Back to Portal
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="nav-collapse collapse navbar-inverse-collapse">
+				<ul class="nav pull-right">
 					<li><a href="#">Admin</a></li>
 					<li class="nav-user dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
